@@ -7,7 +7,7 @@ import KelasPage from "./pages/KelasPage";
 import FaqPage from "./pages/FaqPage";
 import SyaratPage from "./pages/SyaratPage";
 import TestimonialPage from "./pages/TestimonialPage";
-import "./dist/css/style.css";
+import "./css/style.css";
 
 function App() {
   const [count, setCount] = useState(0);
